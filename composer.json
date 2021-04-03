@@ -6,6 +6,12 @@
         "mqtt",
         "client"
     ],
+     "repositories": [
+         {
+            "type": "vcs",
+            "url": "https://github.com/zmike808/net-mqtt"
+        }
+    ],
     "homepage": "https://github.com/binsoul/net-mqtt-client-react",
     "license": "MIT",
     "authors": [
